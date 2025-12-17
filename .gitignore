@@ -1,0 +1,16 @@
+# Colab / system files
+.config/
+sample_data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
