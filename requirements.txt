@@ -4,4 +4,6 @@ numpy
 joblib
 plotly
 imbalanced-learn
-scikit-learn
+
+# 🔒 CRITICAL VERSION PINS
+scikit-learn==1.3.2
